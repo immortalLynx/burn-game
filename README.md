@@ -1,0 +1,2 @@
+# burn-game
+simple mechanics
